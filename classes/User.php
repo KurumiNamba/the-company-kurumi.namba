@@ -182,5 +182,6 @@ class User extends Database {
                 die('Erro deleting your account: '. $this->conn->error);
             }
 }
+}
 
 ?>
